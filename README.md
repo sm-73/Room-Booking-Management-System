@@ -79,8 +79,7 @@ FROM booking AS b
 
 
 ### Query 3: Unique People with Approved Lecture Hall Bookings in a Given Year
-Lists all unique individuals who had an approved booking for a Lecture Hall within a specific year.
-
+Lists all unique individuals who had an approved booking for a Lecture Hall in 2025.
 ```sql
 SELECT DISTINCT p.person_fname, p.person_lname
 FROM person p
