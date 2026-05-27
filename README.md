@@ -6,7 +6,7 @@ A relational database system for managing room reservations within institutional
 
 ## ERD (Entity-Relationship Diagram)
 
-![ERD](ERD_Photo.png)
+![image alt](https://github.com/sm-73/Room-Booking-Management-System/blob/8c916078b444d0306730557dbaa017016ec1a84a/project/ERD_Photo.png)
 
 
 
